@@ -22,5 +22,6 @@ And run like this:
 usage
 =====
 
-Double click to unlock and relock keyrings.  Right click to bring up keyring
-menu.
+Double click keyrings to unlock and relock.  Right click to bring up keyring
+menu.  Double click passwords to copy to clipboard.  Middle click to paste
+password.  Keyrings will autolock after a configurable timeout.
