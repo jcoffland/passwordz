@@ -14,7 +14,8 @@ Features:
 * Automatically locks all keyrings opened in passwordz on exit.
 * Passwords and keyrings are sorted in lexicographical order.
 * Allows user to easily delete the 'login' keyring so keyrings stay locked
-  after reboot
+  after reboot.
+* Switch between primary and standard clipboards.
 
 
 installation
